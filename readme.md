@@ -6,3 +6,8 @@
 - git remote add
 - git push
 - git status
+
+- git log
+- git reset
+
+lslsfjslslsl
