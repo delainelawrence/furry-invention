@@ -10,4 +10,3 @@
 - git log
 - git reset
 
-lslsfjslslsl
